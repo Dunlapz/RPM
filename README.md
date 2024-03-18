@@ -8,7 +8,7 @@ To do:
 *  ~IEEE 2pg. report~
 *  ~Project website~
 
-## Stage 2 : In Progress
+## Stage 2 : Awaiting Grade
 To do:
 *  ~10 min Video Presentation~
 *  ~IEEE 6pg. report~
