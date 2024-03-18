@@ -1,5 +1,5 @@
 <samp>
-# :-: Team #25's Raider Password Manager (RPM)
+# Team #25's Raider Password Manager (RPM)
 Raider Password Manager Dev Blog Site.
 
 # Stage 1 Development
